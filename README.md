@@ -1,5 +1,5 @@
 # ngQuill
-#### personal adaptation v.1.4.6
+#### personal adaptation v.1.4.7
 <img src="https://cloud.githubusercontent.com/assets/2264672/12809927/fd4c3416-cb22-11e5-9b02-80ebd9138255.png" width="120">
 [![NPM](https://nodei.co/npm/ng-quill.png)](https://nodei.co/npm/ng-quill/)
 
